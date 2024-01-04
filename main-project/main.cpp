@@ -10,6 +10,7 @@ int main()
     cout << "Laboratory work #8. GIT\n";
     cout << "Variant #6. Rose of wind\n";
     cout << "Author: Dmitry Mamoiko\n";
+    cout << "Group: 23PInj1D_1\n";
     wind_data* subscriptions[MAX_FILE_ROWS_COUNT];
     int size;
     try
