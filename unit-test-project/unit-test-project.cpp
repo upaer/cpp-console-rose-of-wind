@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
 #include "../main-project/rose-of-wind.h"
-#include "../main-project/processing.h"
+#include "../main-project/processing.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
